@@ -1,0 +1,6 @@
+chainlit
+langchain
+langflow
+unstructured[local-inference]    
+layoutparser[layoutmodels,tesseract]
+pypdf2
