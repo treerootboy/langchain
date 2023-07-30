@@ -2,4 +2,8 @@
 .chainlit
 .chainlit
 .chroma
+.*
+*.db
+*.log
+logs
 __pycache__
